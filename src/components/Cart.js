@@ -29,7 +29,7 @@ const Cart = ({ cartItems, updateCart }) => {
 
     return (
         <div>
-            <h1>Cart</h1>
+            <h1>Your Cart</h1>
             <ul className="cart-list">
                 {cartItems.map(item => (
                     <li key={item.id}>
