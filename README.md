@@ -19,7 +19,7 @@ You can view the live demo of the E-commerce-Website [here](https://lucent-dusk-
 
 ## Screenshot
 
-![E-commerce-Website Screenshot](https://github.com/iamrohitg/E-commerce-Website/assets/88309940/d19dda0f-5441-4d55-ae9b-0f8677c41614)
+![E-commerce-Website Screenshot](https://github.com/iamrohitg/E-commerce-Website/assets/88309940/1658ec7b-db50-48e9-a9da-6964c6891638)
 
 ## Installation
 
